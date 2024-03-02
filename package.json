@@ -1,0 +1,23 @@
+{
+  "name": "test-test123",
+  "version": "1.0.0",
+  "description": "Try test",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "ssh://git@github.com/MaksymOrshovskyi/test-test123.git"
+  },
+  "dependencies": {
+    "how-to-do-tea": "1.0.0",
+    "minti_fulkerson": "0.1.4"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/MaksymOrshovskyi/test-test123/issues"
+  },
+  "homepage": "https://github.com/MaksymOrshovskyi/test-test123#readme"
+}
